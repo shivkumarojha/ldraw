@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "document": {
+    "shapes": [],
+    "show_grid": true,
+    "background": {
+      "r": 22,
+      "g": 27,
+      "b": 39,
+      "a": 255
+    }
+  },
+  "camera": {
+    "center": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "zoom": 1.0
+  }
+}
