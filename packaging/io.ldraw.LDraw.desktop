@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=LDraw
+GenericName=Whiteboard
+Comment=Infinite whiteboard for Linux
+Exec=ldraw
+Icon=ldraw
+Terminal=false
+Categories=Graphics;Utility;
+Keywords=whiteboard;drawing;diagram;sketch;
+StartupWMClass=LDraw
